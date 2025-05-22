@@ -1,0 +1,2 @@
+# images
+stored thumbnail images
